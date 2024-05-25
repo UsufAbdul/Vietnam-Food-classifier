@@ -1,0 +1,30 @@
+Banh beo, 40.000 VND
+Banh bot loc, 3.750 VND
+Banh can, 35.000 VND 
+Banh canh, 80.000 VND
+Banh chung, 200.000 VND
+Banh cuon, 35.000 VND
+Banh duc, 25.000 VND
+Banh gio, 12.500 VND
+Banh Khot, 29.000 VND
+Banh mi, 40.000 VND
+Banh pia, 35.000 VND
+Banh tet, 45.000 VND
+Banh trang nuong, 15.000 VND
+Banh xeo, 65.000 VND
+Bun bo Hue, 35.000 VND
+Bun dau mam tom, 25.000 VND
+Bun mam, 30.000 VND
+Bun rieu, 65.000 VND
+Bun thit nuong, 45.000 VND
+Ca kho to,  99.000 VND
+Canh chua, 65.000 VND
+Cao lau, 25.000 VND
+Chao long, 30.000 VND
+Com tam, 50.000 VND
+Goi cuon, 15.000 VND
+Hu tieu, 40.000 VND
+Mi quang, 25.000 VND
+Nem chua, 40.000 VND
+Pho, 30.000 VND
+Xoi xeo, 8.000 VND
